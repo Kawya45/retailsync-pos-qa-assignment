@@ -136,4 +136,4 @@ All testing was done in a local development environment with test data. Authenti
 ## Author
 
 **Kawya Jinasoma**, Computer Science student and aspiring QA Engineer
-GitHub: [@Kawya45](https://github.com/Kawya45) · LinkedIn: *add your link here*
+GitHub: [@Kawya45](https://github.com/Kawya45) ·
